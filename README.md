@@ -20,7 +20,7 @@ Currently, two official plugins are available:
   
    Display temperature, weather conditions, and coordinates
   
-   Simple and responsive UI
+
    
  
 
